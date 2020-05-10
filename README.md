@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# test_app
-=======
-welc
->>>>>>> added readme
+welc to my repo
