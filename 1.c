@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("shubham k\n");
+    printf("shubham ks\n");
     
     
     return 0;
